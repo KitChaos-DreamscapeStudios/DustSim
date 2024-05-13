@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/kitchaos/Documents/School/PWD/CPP",
-      "program": "/home/kitchaos/Documents/School/PWD/CPP/build/Debug/outDebug",
+      "cwd": "${workspaceRoot}",
+      "program": "${workspaceRoot}/a.out",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
